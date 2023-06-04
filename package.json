@@ -1,0 +1,17 @@
+{
+  "name": "googleapi",
+  "version": "1.0.0",
+  "description": "Automatic Email Reply Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arvindh",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "googleapis": "^118.0.0"
+  }
+}
